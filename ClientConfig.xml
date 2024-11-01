@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Numeri Fortunati WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="NumeriFortunati" enableFreeSpin="Y" clientversion="1.0" gameId="300-2329-0" />
+	<GameClient name="Numeri Fortunati WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="NumeriFortunati " enableFreeSpin="Y" clientversion="1.0" gameId="300-2329-0" />
+	<GameClient name="Numeri Fortunati WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="NumeriFortunati" enableFreeSpin="Y" clientversion="1.0" gameId="300-2329-0" />
+</ClientConfig>
